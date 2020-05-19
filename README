@@ -1,7 +1,7 @@
-##Author:Pranav H. Deo   ;   ENTS669D- Project 2
+# Author:Pranav H. Deo   ;   ENTS669D- Project 2
 
-Running the Code:
-There are two codes:-
+## Running the Code:
+### There are two codes:-
 1. SVM.m
 2. ConNeuNet.m
 (Used readymade functions provided in the DeepLearningToolBoxSupplementary Folder).
